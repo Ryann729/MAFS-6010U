@@ -1,5 +1,5 @@
 arima_lstm.py : code of ARIMA model and LSTM model
-(Note: the loop of the training module in LSTM model may take a long time to run because because the amount of data is so large .)
+(Note: the loop of the training module in ARIMA and LSTM model may take a long time to run because because the amount of data is so large .)
 
 lightgbm.py : code of Light GBM model
 
